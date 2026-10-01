@@ -14,7 +14,7 @@
 
 ## Professional Summary
 
-DevOps Engineer focused on automating the software development lifecycle to enable reliable, repeatable, and fast application delivery. My work centres on infrastructure automation, configuration management, and containerised deployment, with a strong emphasis on continuous improvement and operational efficiency.
+DevOps Engineer focused on automating the software development lifecycle to enable reliable, repeatable, and fast application delivery. My work centers on infrastructure automation, configuration management, and containerized deployment, with a strong emphasis on continuous improvement and operational efficiency.
 
 I am currently open to **remote DevOps opportunities**.
 
@@ -24,7 +24,7 @@ I am currently open to **remote DevOps opportunities**.
 
 | Domain | Technologies |
 | --- | --- |
-| Containerisation & Orchestration | Docker, Kubernetes |
+| Containerization & Orchestration | Docker, Kubernetes |
 | Infrastructure as Code | Terraform |
 | Configuration Management | Ansible |
 | Scripting & Automation | Python, Bash |
